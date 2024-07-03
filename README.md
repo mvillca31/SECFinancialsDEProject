@@ -4,8 +4,8 @@
 # Table of Contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
+3. [Architecture]
+4. [Installation](#installation)
 5. [Data Sources](#data-sources)
 6. [Project Structure](#project-structure)
 7. [Setting Up SQL Server Database](#setting-up-sql-server-database)

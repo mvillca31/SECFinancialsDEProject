@@ -4,7 +4,7 @@
 # Table of Contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
-3. [Architecture](https://github.com/user-attachments/assets/6afcb0ce-2b8b-401e-a410-50d86287540a)
+3. [Architecture](#Architecture)
 4. [Installation](#installation)
 5. [Data Sources](#data-sources)
 6. [Project Structure](#project-structure)

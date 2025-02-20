@@ -4,7 +4,7 @@
 # Table of Contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
-3. [Architecture](images/Architecture_Diagram.drawio.png)
+3. [Architecture](https://github.com/user-attachments/assets/6afcb0ce-2b8b-401e-a410-50d86287540a)
 4. [Installation](#installation)
 5. [Data Sources](#data-sources)
 6. [Project Structure](#project-structure)
@@ -22,7 +22,7 @@ This project aims to extract, transform, and load (ETL) financial data from the 
 - **Data Loading**: Efficiently loading the transformed data into Database for querying and analysis.
 - **Reporting**: Generating insightful reports and visualizations from the financial data.
 ## Architecture
-![Architecture](/images/Architecture Diagram.png)
+![Architecture Diagram drawio](https://github.com/user-attachments/assets/6afcb0ce-2b8b-401e-a410-50d86287540a)
 
 ## Installation
 1. **Clone the Repository**:

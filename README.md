@@ -22,7 +22,7 @@ This project aims to extract, transform, and load (ETL) financial data from the 
 - **Data Loading**: Efficiently loading the transformed data into Database for querying and analysis.
 - **Reporting**: Generating insightful reports and visualizations from the financial data.
 ## Architecture
-(images/Architecture_Diagram.png)
+<img src="images/Architecture_Diagram.png" alt="Architecture Diagram" width="600">
 ## Installation
 1. **Clone the Repository**:
    ```bash

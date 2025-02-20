@@ -4,7 +4,7 @@
 # Table of Contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
-3. [Architecture](images/Architecture_Diagram.png)
+3. [Architecture](images/Architecture_Diagram.drawio.png)
 4. [Installation](#installation)
 5. [Data Sources](#data-sources)
 6. [Project Structure](#project-structure)
